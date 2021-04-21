@@ -1,0 +1,4 @@
+[submodule "OCA/stock-logistics-workflow/stock_no_negative"]
+	path = OCA/stock-logistics-workflow/stock_no_negative
+	url = git@github.com:OCA/stock-logistics-workflow.git
+	branch = 14.0
